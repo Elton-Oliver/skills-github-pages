@@ -7,7 +7,7 @@ Elton Oliver Campello Matias da Silva é um profissional dedicado e apaixonado p
 
 ## Formação Acadêmica
 
-- **Graduação**: Engenharia de Produção pela Universidade Federal do Maranhão (UFMA)
+- **Graduação**: Engenharia de Produção pela Universidade de São Paulo (USP)
 - **Pós-Graduação**: MBA em Gestão de Projetos pela Fundação Getúlio Vargas (FGV)
 
 ## Experiência Profissional
